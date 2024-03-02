@@ -13,12 +13,12 @@
 ### 🎓 Учебные проекты
 | Name | Description | Tools                              |
 | --- | --- |------------------------------------|
-| [LinuxNetwork]() | Создание сети для 5 виртуальных машин | Linux, сети, nginx, VM|
-| [SimpleDocker]() | Работа с Docker контейнерами | Docker, Docker Compose, nginx|
-| [CICD]() | Построение pipeline's на базе Gitlab | CI\CD, Gitlab, Telegram Bot|
+| [LinuxNetwork](https://github.com/LessyLampray/LinuxNetwork) | Создание сети для 5 виртуальных машин | Linux, сети, nginx, VM|
+| [SimpleDocker](https://github.com/LessyLampray/SimpleDocker) | Работа с Docker контейнерами | Docker, Docker Compose, nginx|
+| [CICD](https://github.com/LessyLampray/CICD) | Построение pipeline's на базе Gitlab | CI\CD, Gitlab, Telegram Bot|
 | [Library]() | Веб-приложение для учета книг| Java, Spring, SQL, Maven|
-| [MatrixPlus]() | Библиотека для работы с двумерными массивами| C++, MakeFile|
-| [SmartCalc]() | Расширенный калькулятор с возможностью построения графика функций и рассчета кредита | C, Qt, Make|
-| [SQLBootcamp]() | Кластер учебных проектов по изучению работы с PostgreSQL | PostgreSQL                         |
+| [MatrixPlus](https://github.com/LessyLampray/MatrixPlus) | Библиотека для работы с двумерными массивами| C++, MakeFile|
+| [SmartCalc](https://github.com/LessyLampray/SmartCalc) | Расширенный калькулятор с возможностью построения графика функций и рассчета кредита | C, Qt, Make|
+| [SQLBootcamp](https://github.com/LessyLampray/SQLBootcamp) | Кластер учебных проектов по изучению работы с PostgreSQL | PostgreSQL                         |
 
 [![LessyLampray's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=LessyLampray&theme=dark)](https://github.com/LessyLampray/leetcode-stats)
